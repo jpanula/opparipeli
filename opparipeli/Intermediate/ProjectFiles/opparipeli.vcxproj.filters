@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\opparipeli.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C09F4709-C936-437D-835F-03DD3869E908}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\opparipeli.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\opparipeliEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8DADFCBF-E7C8-4128-92C8-45E62DDF8C85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\opparipeli">
+      <UniqueIdentifier>{98D9AC5F-3E8F-46B8-89BC-9A1F6BAA66DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\opparipeli\opparipeli.Build.cs">
+      <Filter>Source\opparipeli</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\opparipeli\opparipeli.cpp">
+      <Filter>Source\opparipeli</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\opparipeli\opparipeli.h">
+      <Filter>Source\opparipeli</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\opparipeli\opparipeliGameModeBase.cpp">
+      <Filter>Source\opparipeli</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\opparipeli\opparipeliGameModeBase.h">
+      <Filter>Source\opparipeli</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
