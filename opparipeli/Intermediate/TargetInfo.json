@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "opparipeli",
-			"Path": "E:\\Media\\OneDrive\\Documents\\opparipeli\\opparipeli\\opparipeli\\Source\\opparipeli.Target.cs",
+			"Path": "C:\\opparipeli\\opparipeli\\opparipeli\\Source\\opparipeli.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "opparipeliEditor",
-			"Path": "E:\\Media\\OneDrive\\Documents\\opparipeli\\opparipeli\\opparipeli\\Source\\opparipeliEditor.Target.cs",
+			"Path": "C:\\opparipeli\\opparipeli\\opparipeli\\Source\\opparipeliEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

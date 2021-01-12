@@ -1,2 +1,2 @@
-E:\Media\OneDrive\Documents\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\Definitions.opparipeli.h
-E:\Media\OneDrive\Documents\opparipeli\opparipeli\opparipeli\Source\opparipeli\opparipeli.h
+C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\Definitions.opparipeli.h
+C:\opparipeli\opparipeli\opparipeli\Source\opparipeli\opparipeli.h
