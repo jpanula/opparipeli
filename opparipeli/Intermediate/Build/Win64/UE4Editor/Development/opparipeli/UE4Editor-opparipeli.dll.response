@@ -34,6 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\opparipeliEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\MyClassTest.cpp.obj"
 "C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeli.cpp.obj"
 "C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeliGameModeBase.cpp.obj"
 "C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeli.init.gen.cpp.obj"

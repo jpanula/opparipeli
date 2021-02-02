@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-opparipeli-4984.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\opparipeliEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\MyClassTest.cpp.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeli.cpp.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeliGameModeBase.cpp.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeli.init.gen.cpp.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\opparipeliGameModeBase.gen.cpp.obj"
+"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\Default.rc2.res"
+/OUT:"C:\opparipeli\opparipeli\opparipeli\Intermediate\Build\Win64\UE4Editor\Development\opparipeli\UE4Editor-opparipeli-4984.lib"
+/INCLUDE:IMPLEMENT_MODULE_opparipeli

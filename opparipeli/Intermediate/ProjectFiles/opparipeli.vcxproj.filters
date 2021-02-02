@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\opparipeli.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C09F4709-C936-437D-835F-03DD3869E908}</UniqueIdentifier>
+      <UniqueIdentifier>{85079F65-3CC8-4CD2-BC40-AB448A76E9A3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\opparipeli.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{8DADFCBF-E7C8-4128-92C8-45E62DDF8C85}</UniqueIdentifier>
+      <UniqueIdentifier>{4232B03E-4E21-48B9-82CD-9AA2BC5869A3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +23,57 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
-    <Filter Include="Source\opparipeli">
-      <UniqueIdentifier>{98D9AC5F-3E8F-46B8-89BC-9A1F6BAA66DF}</UniqueIdentifier>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{39BCCD3C-9A5D-4D56-8FE4-E7AC3C52E9E9}</UniqueIdentifier>
     </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Source\opparipeli">
+      <UniqueIdentifier>{30252006-D97D-4466-A287-06113337FFDA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\opparipeli\MyClassTest.cpp">
+      <Filter>Source\opparipeli</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\opparipeli\MyClassTest.h">
+      <Filter>Source\opparipeli</Filter>
+    </ClInclude>
     <None Include="..\..\Source\opparipeli\opparipeli.Build.cs">
       <Filter>Source\opparipeli</Filter>
     </None>
